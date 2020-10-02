@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Mario 👋
+### Currently working at Entel. My main programming languages/platform are: Python, linux and Azure.
 <!--
 **MarioVillanesV/MarioVillanesV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
